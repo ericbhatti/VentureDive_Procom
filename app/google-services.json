@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793421994428",
+    "firebase_url": "https://venturediveprocom.firebaseio.com",
+    "project_id": "venturediveprocom",
+    "storage_bucket": "venturediveprocom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793421994428:android:d507799ea8798b63",
+        "android_client_info": {
+          "package_name": "com.venturedive.venturediveprocom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793421994428-8tfgbapp0cgjvi5f0uegjgdeb4k863fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venturedive.venturediveprocom",
+            "certificate_hash": "8213c83f681bec4fc20058c63b99862a876ff28e"
+          }
+        },
+        {
+          "client_id": "793421994428-na7pfbp8hbc2ahn3b3rmj72mm08tgoir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNH9d9j_V9bw7XGPTZMIoqG-mMZ_k4j8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793421994428-na7pfbp8hbc2ahn3b3rmj72mm08tgoir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
